@@ -1,4 +1,3 @@
-# macOS system files
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -11,7 +10,6 @@
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
-# Editors / IDEs
 .vscode/
 .idea/
 *.suo
@@ -20,6 +18,5 @@
 *.sln
 *.sw?
 
-# Other
 node_modules/
 .env
